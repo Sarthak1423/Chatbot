@@ -1,0 +1,6 @@
+Langchain
+Ipython
+pandas
+chromadb
+streamlit
+langchain_google_genai
