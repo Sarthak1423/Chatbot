@@ -1,5 +1,5 @@
 Langchain
-Ipython
+IPython
 pandas
 chromadb
 streamlit
