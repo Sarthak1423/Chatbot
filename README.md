@@ -1,4 +1,4 @@
-PDF Chatbot with LangChain Google Generative AI and Streamlit
+PDF Chatbot with LangChain framework and Google Generative AI and Streamlit
 Welcome to the PDF Chatbot repository! This project utilizes LangChain Google Generative AI and Streamlit to create a user-friendly application for generating chatbot responses based on input text.
 
 Table of Contents
